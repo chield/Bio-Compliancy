@@ -1,0 +1,2210 @@
+[2024/07/01 01:09:21]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_AADGroup\MSFT_AADGroup.psm1: line 1183
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:22]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy.psm1: line 748
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:24]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionPolicy\MSFT_IntuneAccountProtectionPolicy.psm1: line 774
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:25]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog.psm1: line 1652
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:26]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyAndroid\MSFT_IntuneAppProtectionPolicyAndroid.psm1: line 1144
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:27]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyiOS\MSFT_IntuneAppProtectionPolicyiOS.psm1: line 1191
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:28]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceAndAppManagementAssignmentFilter\MSFT_IntuneDeviceAndAppManagementAssignmentFilter.psm1: line 455
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:29]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCleanupRule\MSFT_IntuneDeviceCleanupRule.psm1: line 383
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:31]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyMacOS\MSFT_IntuneDeviceCompliancePolicyMacOS.psm1: line 787
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:31]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyWindows10\MSFT_IntuneDeviceCompliancePolicyWindows10.psm1: line 907
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:32]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10.psm1: line 922
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:33]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10.psm1: line 671
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:34]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10.psm1: line 938
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:35]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10.psm1: line 1014
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:36]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10.psm1: line 611
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:39]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyMacOS\MSFT_IntuneDeviceConfigurationPolicyMacOS.psm1: line 1410
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:40]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationPolicyWindows10.psm1: line 4889
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:40]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10.psm1: line 972
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:41]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10.psm1: line 587
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:43]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentLimitRestriction\MSFT_IntuneDeviceEnrollmentLimitRestriction.psm1: line 384
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:44]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentPlatformRestriction\MSFT_IntuneDeviceEnrollmentPlatformRestriction.psm1: line 869
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:46]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentStatusPageWindows10\MSFT_IntuneDeviceEnrollmentStatusPageWindows10.psm1: line 781
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:47]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10.psm1: line 615
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:49]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleAssignment\MSFT_IntuneRoleAssignment.psm1: line 717
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:50]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleDefinition\MSFT_IntuneRoleDefinition.psm1: line 556
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:51]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10.psm1: line 962
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:52]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogCustomPolicyWindows10\MSFT_IntuneSettingCatalogCustomPolicyWindows10.psm1: line 715
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:54]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyMacOS\MSFT_IntuneWifiConfigurationPolicyMacOS.psm1: line 739
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:55]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyWindows10\MSFT_IntuneWifiConfigurationPolicyWindows10.psm1: line 782
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:56]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined.psm1: line 768
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/01 01:09:56]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10.psm1: line 600
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:36]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_AADGroup\MSFT_AADGroup.psm1: line 1183
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:37]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy.psm1: line 748
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:38]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionPolicy\MSFT_IntuneAccountProtectionPolicy.psm1: line 774
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:39]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog.psm1: line 1652
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:40]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyAndroid\MSFT_IntuneAppProtectionPolicyAndroid.psm1: line 1144
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:41]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyiOS\MSFT_IntuneAppProtectionPolicyiOS.psm1: line 1191
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:42]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceAndAppManagementAssignmentFilter\MSFT_IntuneDeviceAndAppManagementAssignmentFilter.psm1: line 455
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:43]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCleanupRule\MSFT_IntuneDeviceCleanupRule.psm1: line 383
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:45]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyMacOS\MSFT_IntuneDeviceCompliancePolicyMacOS.psm1: line 787
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:46]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyWindows10\MSFT_IntuneDeviceCompliancePolicyWindows10.psm1: line 907
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:47]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10.psm1: line 922
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:48]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10.psm1: line 671
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:49]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10.psm1: line 938
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:51]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10.psm1: line 1014
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:51]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10.psm1: line 611
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:54]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyMacOS\MSFT_IntuneDeviceConfigurationPolicyMacOS.psm1: line 1410
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:55]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationPolicyWindows10.psm1: line 4889
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:56]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10.psm1: line 972
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:57]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10.psm1: line 587
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:58:59]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentLimitRestriction\MSFT_IntuneDeviceEnrollmentLimitRestriction.psm1: line 384
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:00]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentPlatformRestriction\MSFT_IntuneDeviceEnrollmentPlatformRestriction.psm1: line 869
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:02]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentStatusPageWindows10\MSFT_IntuneDeviceEnrollmentStatusPageWindows10.psm1: line 781
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:05]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10.psm1: line 615
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:08]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleAssignment\MSFT_IntuneRoleAssignment.psm1: line 717
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:08]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleDefinition\MSFT_IntuneRoleDefinition.psm1: line 556
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:10]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10.psm1: line 962
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:11]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogCustomPolicyWindows10\MSFT_IntuneSettingCatalogCustomPolicyWindows10.psm1: line 715
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:13]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyMacOS\MSFT_IntuneWifiConfigurationPolicyMacOS.psm1: line 739
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:13]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyWindows10\MSFT_IntuneWifiConfigurationPolicyWindows10.psm1: line 782
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:14]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined.psm1: line 768
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:15]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10.psm1: line 600
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:20]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_AADGroup\MSFT_AADGroup.psm1: line 1183
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:21]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy.psm1: line 748
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:22]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionPolicy\MSFT_IntuneAccountProtectionPolicy.psm1: line 774
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:24]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog.psm1: line 1652
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:25]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyAndroid\MSFT_IntuneAppProtectionPolicyAndroid.psm1: line 1144
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:27]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyiOS\MSFT_IntuneAppProtectionPolicyiOS.psm1: line 1191
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:28]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceAndAppManagementAssignmentFilter\MSFT_IntuneDeviceAndAppManagementAssignmentFilter.psm1: line 455
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:29]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCleanupRule\MSFT_IntuneDeviceCleanupRule.psm1: line 383
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:31]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyMacOS\MSFT_IntuneDeviceCompliancePolicyMacOS.psm1: line 787
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:32]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyWindows10\MSFT_IntuneDeviceCompliancePolicyWindows10.psm1: line 907
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:33]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10.psm1: line 922
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:34]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10.psm1: line 671
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:35]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10.psm1: line 938
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:36]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10.psm1: line 1014
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:37]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10.psm1: line 611
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:41]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyMacOS\MSFT_IntuneDeviceConfigurationPolicyMacOS.psm1: line 1410
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:42]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationPolicyWindows10.psm1: line 4889
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:42]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10.psm1: line 972
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:43]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10.psm1: line 587
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:46]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentLimitRestriction\MSFT_IntuneDeviceEnrollmentLimitRestriction.psm1: line 384
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:47]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentPlatformRestriction\MSFT_IntuneDeviceEnrollmentPlatformRestriction.psm1: line 869
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:49]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentStatusPageWindows10\MSFT_IntuneDeviceEnrollmentStatusPageWindows10.psm1: line 781
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:50]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10.psm1: line 615
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:52]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleAssignment\MSFT_IntuneRoleAssignment.psm1: line 717
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:53]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleDefinition\MSFT_IntuneRoleDefinition.psm1: line 556
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:54]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10.psm1: line 962
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:55]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogCustomPolicyWindows10\MSFT_IntuneSettingCatalogCustomPolicyWindows10.psm1: line 715
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:57]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyMacOS\MSFT_IntuneWifiConfigurationPolicyMacOS.psm1: line 739
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:58]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyWindows10\MSFT_IntuneWifiConfigurationPolicyWindows10.psm1: line 782
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:59]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined.psm1: line 768
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 08:59:59]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10.psm1: line 600
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:36]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_AADGroup\MSFT_AADGroup.psm1: line 1183
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:36]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_AADGroupsSettings\MSFT_AADGroupsSettings.psm1: line 536
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:37]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy\MSFT_IntuneAccountProtectionLocalAdministratorPasswordSolutionPolicy.psm1: line 748
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:39]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAccountProtectionPolicy\MSFT_IntuneAccountProtectionPolicy.psm1: line 774
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:40]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog\MSFT_IntuneAntivirusPolicyWindows10SettingCatalog.psm1: line 1652
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:41]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyAndroid\MSFT_IntuneAppProtectionPolicyAndroid.psm1: line 1144
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:44]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneAppProtectionPolicyiOS\MSFT_IntuneAppProtectionPolicyiOS.psm1: line 1191
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:45]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceAndAppManagementAssignmentFilter\MSFT_IntuneDeviceAndAppManagementAssignmentFilter.psm1: line 455
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:46]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCleanupRule\MSFT_IntuneDeviceCleanupRule.psm1: line 383
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:48]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyMacOS\MSFT_IntuneDeviceCompliancePolicyMacOS.psm1: line 787
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:49]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceCompliancePolicyWindows10\MSFT_IntuneDeviceCompliancePolicyWindows10.psm1: line 907
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:50]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10\MSFT_IntuneDeviceConfigurationAdministrativeTemplatePolicyWindows10.psm1: line 922
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:51]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10\MSFT_IntuneDeviceConfigurationCustomPolicyWindows10.psm1: line 671
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:52]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10\MSFT_IntuneDeviceConfigurationDeliveryOptimizationPolicyWindows10.psm1: line 938
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:53]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10\MSFT_IntuneDeviceConfigurationFirmwareInterfacePolicyWindows10.psm1: line 1014
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:54]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationHealthMonitoringConfigurationPolicyWindows10.psm1: line 611
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:56]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPlatformScriptMacOS\MSFT_IntuneDeviceConfigurationPlatformScriptMacOS.psm1: line 654
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:56]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPlatformScriptWindows\MSFT_IntuneDeviceConfigurationPlatformScriptWindows.psm1: line 636
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:59]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyMacOS\MSFT_IntuneDeviceConfigurationPolicyMacOS.psm1: line 1410
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:05:59]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationPolicyWindows10\MSFT_IntuneDeviceConfigurationPolicyWindows10.psm1: line 4889
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:00]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationSCEPCertificatePolicyWindows10.psm1: line 972
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:01]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10\MSFT_IntuneDeviceConfigurationTrustedCertificatePolicyWindows10.psm1: line 587
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:05]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentLimitRestriction\MSFT_IntuneDeviceEnrollmentLimitRestriction.psm1: line 384
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:05]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentPlatformRestriction\MSFT_IntuneDeviceEnrollmentPlatformRestriction.psm1: line 869
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:08]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceEnrollmentStatusPageWindows10\MSFT_IntuneDeviceEnrollmentStatusPageWindows10.psm1: line 781
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:09]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDeviceRemediation\MSFT_IntuneDeviceRemediation.psm1: line 770
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:09]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneDiskEncryptionMacOS\MSFT_IntuneDiskEncryptionMacOS.psm1: line 719
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:11]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10\MSFT_IntuneEndpointDetectionAndResponsePolicyWindows10.psm1: line 615
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:16]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleAssignment\MSFT_IntuneRoleAssignment.psm1: line 717
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:16]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneRoleDefinition\MSFT_IntuneRoleDefinition.psm1: line 556
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:18]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10\MSFT_IntuneSettingCatalogASRRulesPolicyWindows10.psm1: line 962
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:19]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneSettingCatalogCustomPolicyWindows10\MSFT_IntuneSettingCatalogCustomPolicyWindows10.psm1: line 715
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:21]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyMacOS\MSFT_IntuneWifiConfigurationPolicyMacOS.psm1: line 739
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:22]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWifiConfigurationPolicyWindows10\MSFT_IntuneWifiConfigurationPolicyWindows10.psm1: line 782
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:23]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined\MSFT_IntuneWindowsAutopilotDeploymentProfileAzureADJoined.psm1: line 768
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:23]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsUpdateForBusinessDriverUpdateProfileWindows10\MSFT_IntuneWindowsUpdateForBusinessDriverUpdateProfileWindows10.psm1: line 587
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
+[2024/07/09 09:06:24]
+{InvalidOperation}
+System.Management.Automation.RuntimeException: You cannot call a method on a null-valued expression.
+   at System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   at Get-M365DSCExportContentForResource(Closure, FunctionContext)
+   at System.Management.Automation.PSScriptCmdlet.RunClause(Action`1 clause, Object dollarUnderbar, Object inputToProcess)
+   at System.Management.Automation.CommandProcessorBase.Complete()
+"Error during Export:"
+at Get-M365DSCExportContentForResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 3449
+at Export-TargetResource, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\DSCResources\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10\MSFT_IntuneWindowsUpdateForBusinessFeatureUpdateProfileWindows10.psm1: line 600
+at Start-M365DSCConfigurationExtract, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCReverse.psm1: line 682
+at Export-M365DSCConfiguration, C:\Program Files\WindowsPowerShell\Modules\Microsoft365DSC\1.24.619.1\Modules\M365DSCUtil.psm1: line 1377
+at <ScriptBlock>, <No file>: line 1
+TenantId: interstellaroperations.onmicrosoft.com
+
+
+
